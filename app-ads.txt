@@ -625,3 +625,10 @@ mintegral.com,10043,RESELLER,0aeed750c80d6423
 onetag.com,770a440e65869c2,RESELLER
 media.net,8CUZ1MK22,RESELLER
 risecodes.com,63832beef8189a00015cb6d3,RESELLER
+
+
+vdo.ai, 3669, DIRECT
+atlas5.co, 3669, DIRECT
+walletcircle.co, 3669, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
